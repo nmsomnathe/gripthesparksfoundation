@@ -1,4 +1,3 @@
-gripthesparksfoundation
 GRIP: The Sparks Foundation Data Science and Business Analytics Intern
 
 TASK 1: Prediction usin Unsupervised ML
